@@ -6,6 +6,11 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
-<br>
+Mobile Software Manager at Etiya<br>
+Software Developer, Android Lover, Technology Editor, Father, Storyteller..<br>
+
+[![GitHub Egemen Mede](https://img.shields.io/github/followers/egemenmede?label=follow&style=social)](https://github.com/egemenmede)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-egemenmede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egemenmede/)](https://www.linkedin.com/in/egemenmede/)
+[![Gmail Badge](https://img.shields.io/badge/-egemenmede-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:egemenmede@gmail.com)](mailto:egemenmede@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-delipenguen-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@delipenguen)](https://medium.com/@delipenguen)
+[![Medium Badge](https://img.shields.io/badge/-ETIYA-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/etiya)](https://medium.com/etiya)
