@@ -7,7 +7,7 @@
 <!-- prettier-ignore-end -->
 
 Mobile Software Manager at Etiya<br>
-Software Developer, Android Lover, Technology Editor, Father, Storyteller..<br>
+Software Developer, Android and Flutter Lover, Technology Editor, Father, Storyteller..<br>
 
 [![GitHub Egemen Mede](https://img.shields.io/github/followers/egemenmede?label=follow&style=social)](https://github.com/egemenmede)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-egemenmede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egemenmede/)](https://www.linkedin.com/in/egemenmede/)
