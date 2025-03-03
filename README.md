@@ -17,5 +17,5 @@ Software Developer, Android and Flutter Lover, Technology Editor, Father, Storyt
 
 pub.dev libraries
 
-- IBAN Utilities Library - [iban_utilities_lib: ^1.0.1](https://pub.dev/packages/iban_utilities_lib)
-- TCKN Check - [tckn_check: ^0.0.4](https://pub.dev/packages/tckn_check)
+- IBAN Utilities Library - [iban_utilities_lib: ^1.0.3](https://pub.dev/packages/iban_utilities_lib)
+- TCKN Check - [tckn_check: ^1.0.0](https://pub.dev/packages/tckn_check)
