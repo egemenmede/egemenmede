@@ -6,7 +6,7 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-Mobile Software Manager at Etiya<br>
+Senior Manager at Etiya<br>
 Software Developer, Android and Flutter Lover, Technology Editor, Father, Storyteller..<br>
 
 [![GitHub Egemen Mede](https://img.shields.io/github/followers/egemenmede?label=follow&style=social)](https://github.com/egemenmede)
